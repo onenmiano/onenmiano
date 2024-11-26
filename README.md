@@ -1,1 +1,1 @@
-rkisakrlrjgkvclvijfkgjejdhgkkeje()jdusahuhfuahsuhduhauhsuhduausduagksaeujfdsjwajhfidpamkdsajhhjsd(fasfasdg)fasbfahsbfdggsdfdsfa
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
